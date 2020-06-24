@@ -1,3 +1,13 @@
-﻿{
-	"name": "Cirrus.Editor"
+{
+    "name": "Cirrus.UnityEditorExt",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }
