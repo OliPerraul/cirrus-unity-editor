@@ -1,6 +1,8 @@
 {
     "name": "Cirrus.UnityEditorExt",
-    "references": [],
+    "references": [
+        "Cirrus.Core"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
