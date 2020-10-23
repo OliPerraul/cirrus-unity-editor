@@ -1,6 +1,6 @@
 ﻿#if UNITY_EDITOR
 
-using System;
+using System; using Cirrus.Objects;
 using System.Collections.Generic;
 
 using System.IO;

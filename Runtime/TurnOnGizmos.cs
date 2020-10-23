@@ -1,7 +1,7 @@
 ﻿#if UNITY_EDITOR
 
 using UnityEditor;
-using System;
+using System; using Cirrus.Objects;
 using System.Reflection;
 
 namespace Cirrus.UnityEditorExt

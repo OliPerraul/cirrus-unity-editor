@@ -1,12 +1,12 @@
 ﻿// Contributed code by Petris.
 // https://github.com/MichalPetryka/LiteNetLib4Mirror
 #if UNITY_EDITOR
-using System;
+using System; using Cirrus.Objects;
 using System.Collections.Generic;
 using System.Reflection;
 using UnityEditor;
 using UnityEngine;
-using Cirrus;
+using Cirrus; using Cirrus.Objects;
 
 //namespace Mirror.Ignorance.Editor
 //{

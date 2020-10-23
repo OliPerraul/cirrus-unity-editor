@@ -1,5 +1,5 @@
 ﻿using UnityEngine;
-using System;
+using System; using Cirrus.Objects;
 using System.Collections;
 
 namespace Cirrus.UnityEditorExt

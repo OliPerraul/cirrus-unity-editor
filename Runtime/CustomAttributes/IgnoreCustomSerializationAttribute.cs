@@ -1,4 +1,4 @@
-﻿using System;
+﻿using System; using Cirrus.Objects;
 using System.Collections.Generic;
 //using Cirrus.Editor.ThirdParty.UniLinq;
 using System.Text;

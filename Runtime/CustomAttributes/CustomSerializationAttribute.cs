@@ -1,4 +1,4 @@
-﻿using System;
+﻿using System; using Cirrus.Objects;
 
 namespace Cirrus.UnityEditorExt
 {

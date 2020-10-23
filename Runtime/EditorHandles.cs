@@ -4,7 +4,7 @@
 // Main Author https://gist.github.com/MattRix
 // Igor Aherne improved it to include object picking as well   facebook.com/igor.aherne
 //https://github.com/MattRix/UnityDecompiled/blob/master/UnityEditor/UnityEditor/HandleUtility.cs
-using System;
+using System; using Cirrus.Objects;
 using System.Collections.Generic;
 using System.Linq;
 //using System.Numerics;

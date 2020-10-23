@@ -1,7 +1,7 @@
 
 #if UNITY_EDITOR
 
-using System;
+using System; using Cirrus.Objects;
 using UnityEngine;
 using UnityEditor;
 
